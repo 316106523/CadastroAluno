@@ -1,5 +1,3 @@
-CÃ³digo:16
+Código:16
 
 Disciplina: Desenvolvimento
-
-Curso: Ingles
